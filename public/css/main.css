@@ -1,0 +1,25 @@
+div#solving-form {
+      margin: 20px;
+      float: left;
+}
+h1 {
+      text-align: center;
+}
+label, input, p#c2, button {
+      display: block;
+      margin-top: 10px;
+      font-size: 150%;
+}
+input, p#c2, button {
+      border-radius: 10px;
+      border-width: 2px;
+}
+button {
+      display: block;
+      margin-left: auto;
+}
+#resultDiv {
+      float: left;
+      clear: both;
+      font-size: 150%
+}
